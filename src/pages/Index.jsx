@@ -2,10 +2,10 @@ import { Box, Container, Flex, Image, SimpleGrid, Text, VStack } from "@chakra-u
 import { FaTwitch } from "react-icons/fa";
 
 const streamThumbnails = [
-  { id: 1, title: "Gaming with Friends", src: "https://via.placeholder.com/300x200?text=Gaming+with+Friends" },
-  { id: 2, title: "Cooking Live", src: "https://via.placeholder.com/300x200?text=Cooking+Live" },
-  { id: 3, title: "Music Jam Session", src: "https://via.placeholder.com/300x200?text=Music+Jam+Session" },
-  { id: 4, title: "Art and Craft", src: "https://via.placeholder.com/300x200?text=Art+and+Craft" },
+  { id: 1, title: "Gaming with Friends", src: "https://example.com/images/gaming-with-friends.jpg" },
+  { id: 2, title: "Cooking Live", src: "https://example.com/images/cooking-live.jpg" },
+  { id: 3, title: "Music Jam Session", src: "https://example.com/images/music-jam-session.jpg" },
+  { id: 4, title: "Art and Craft", src: "https://example.com/images/art-and-craft.jpg" },
 ];
 
 const Index = () => {
